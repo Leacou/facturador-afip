@@ -1,0 +1,1 @@
+leacou@leandros-MacBook-Air Facturador Afip % source venv/bin/activate 
